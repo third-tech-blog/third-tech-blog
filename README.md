@@ -13,7 +13,7 @@ https://uuja.jp/yoshiki/mypage
 https://uuja.jp/yoshiki/first-page  
 というURLが作られます。  
   
-  
+#### 仲間を募集してます。  
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
