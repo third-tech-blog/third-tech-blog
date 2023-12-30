@@ -2,13 +2,16 @@
 ## 技術記事投稿サイトの開発プロジェクトです
 記事投稿サイトの仕組みは、サインアップするとユーザー名のディレクトリが作られます。  
 仮に uuja.jp というドメイン名だとすると、  
-https://uuja.jp/username　という感じ。  
-僕が作った場合は  
-https://uuja.jp/yoshiki　というディレクトリが作られます。  
+https://uuja.jp/username  
+という感じ。僕が作った場合は  
+https://uuja.jp/yoshiki  
+というディレクトリが作られます。  
 マイページの場所は  
-https://uuja.jp/yoshiki/mypage　という感じです。  
+https://uuja.jp/yoshiki/mypage  
+という感じです。  
 マイページからfirst-pageという名前の最初の記事を作った場合は  
-https://uuja.jp/yoshiki/first-page というURLが作られます。  
+https://uuja.jp/yoshiki/first-page  
+というURLが作られます。  
   
   
 
